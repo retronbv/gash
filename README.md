@@ -13,6 +13,7 @@ git clone https://github.com/qucchia/gash.git
 cd gash
 npm install
 # install leopard
+cd src
 git clone https://github.com/PullJosh/leopard.git
 cd leopard
 npm install
