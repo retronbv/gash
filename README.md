@@ -4,8 +4,6 @@
 
 This project uses [Blockly](https://github.com/google/blockly) to create a block-based editor for [Leopard](https://github.com/PullJosh/leopard).
 
-## Running the sample
-
 ### Installation
 
 ```
