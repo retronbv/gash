@@ -1,28 +1,30 @@
 [Home](../README.md)
 
-# blockly-react-sample [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
+# Gash [![Built on Blockly](https://tinyurl.com/built-on-blockly)](https://github.com/google/blockly)
 
-This sample shows how to load Blockly in a [React](https://reactjs.org/) project.
+This project uses [Blockly](https://github.com/google/blockly) to create a block-based editor for [Leopard](https://github.com/PullJosh/leopard).
 
 ## Running the sample
 
 ### Installation
 
 ```
+git clone https://github.com/qucchia/gash.git
+cd gash
+npm install
+# install leopard
+git clone https://github.com/PullJosh/leopard.git
+cd leopard
 npm install
 ```
 
 ### Running
 
 ```
+# in the gash folder:
 npm run start
 ```
 
 ### Browse
 
 Open [http://localhost:3000/](http://localhost:3000/)
-
-## Community projects
-
-[react-blockly](https://github.com/nbudin/react-blockly):
-A React component that embeds Blockly. It uses the official [Blockly npm package](https://www.npmjs.com/package/blockly).
